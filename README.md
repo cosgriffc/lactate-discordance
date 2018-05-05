@@ -8,5 +8,4 @@ The goal of this preliminary work is to build a predictive model for lactate-phe
 * EDA: contains a notebook with an exploratory analysis of the cohort
 * Classifier: contains a notebook which documents the construction of a classifier
 
-This version of the work represents my Harvard Chan School practcum project. Future work will examine class imbalance issues as well as seek to understand
-some of the assoiciations found between diagnosis and lactate discordance.
+This version of the work represents my Harvard Chan School practcum project.
