@@ -5,7 +5,9 @@
 
 The goal of this preliminary work is to build a predictive model for lactate-phenotype discordance. This repository is organized as follows:
 * Extraction: contains a notebook and requisite scripts for extacting cohort data from the eICU database
-* EDA: contains a notebook with an exploratory analysis of the cohort
+* EDA: contains a notebook with an exploratory analysis of the cohort as well as a notebook examining the
+association between lactate discordance and mortality. (_Note on mortality: As this was examined after the initial extract, this
+file performs a database pull to attain mortality status._)
 * Classifier: contains a notebook which documents the construction of a classifier
 
-This version of the work represents my Harvard Chan School practcum project.
+This work was done as part of my Harvard Chan School practcum requirement.
